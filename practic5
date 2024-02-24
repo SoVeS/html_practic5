@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>printer-100%-kopia</title>
+        <link rel="stylesheet" href="css/style.css">
+        <script src="main.js"></script>
+       
+    </head>
+    <body>
+        <div>
+            <header class="a"><b>A U<br>R A</b></header>
+            <header class="b">P R O J E C T S</header>
+            <header class="c">C O N T A C T</header>
+            <div class="d">
+                <p><font size="6"><b>C O N T A C T</b></font></p><br>
+                <p><font size="4"><b><u>A D D R E S S</u></b></font></p>
+                <p>8861 QUAKING BLOSSOM TRACE,<br><br>CELINA, AK, 99966-7071, US,<br></p>
+                <p><font size="4"><b><u>P H O N E</u></b></font></p>
+                <p>(907)829-526</p><br>
+                <p><font size="4"><b><u>E - M A I L</u></b></font></p><br>
+                <p>AURA@AURRAENV.COM</p>
+            </div>
+            <div class="gr">
+                <p align="center"><font size="6"><b>CONTACT FORM</b></font></p><br>
+                <p class="e"><b>FULL NAME</b></p>
+                <p class="e">___________________________________________</p>
+                <p class="e"><b>EMAIL ADDRESS</b></p>
+                <p class="e">___________________________________________</p>
+                <p class="e"><b>PHONE NO.</b></p>
+                <p class="e">___________________________________________</p>
+                <p class="e"><b>SUJECT</b></p>
+                <p class="e">___________________________________________</p>
+                <button class="f">SEND MESSAGE</button>
+            </div>
+        </div>
+    </body>
+</html>
